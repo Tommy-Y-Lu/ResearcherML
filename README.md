@@ -3,11 +3,9 @@
 
 > It is difficult to think of a major industry that AI will not transform... There are surprisingly clear paths for AI to make a big difference in all of these industries - Andrew Ng
 
-Artificial intelligence is at the core of the current-day paradigm for scientific research and innovation.
+Artificial intelligence is at the core of the current-day paradigm for research and innovation. **Therefore, to keep up with modern research, scientists must embrace the advent of AI and learn how to effectively employ it.**
 
-Understanding the fall of Blockbuster and the rise of Netflix as an allegory about the importance of innovation, **it is clear that all research, especially science, must embrace the advent of AI and learn how to effectively employ it.**
-
-*This project seeks to provide a foundational overview of the applications of AI for wet lab scientiests seeking to innovate their research.*
+*This project seeks to provide a foundational overview of the applications of AI for wet lab scientists seeking to innovate their research.*
 
 ## Contents
 
