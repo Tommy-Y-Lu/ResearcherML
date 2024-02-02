@@ -5,7 +5,7 @@
 
 Artificial intelligence is at the core of the current-day paradigm for research and innovation. **Therefore, to understand and engage with modern research, researchers must embrace the advent of AI and learn how to effectively employ it.**
 
-*This project seeks to provide a foundational overview of the applications of AI for researchers seeking to innovate their data analysis.*
+*This project seeks to provide a foundational overview of the applications of AI, primarily Machine Learning (ML), for researchers seeking to innovate their data analysis.*
 
 ## Contents
 
@@ -18,7 +18,6 @@ Artificial intelligence is at the core of the current-day paradigm for research 
   4. Representing Data
   5. Model Improvement
   6. Algorithm Chains and Pipelines
-  7.  Text Data
 </details>
 
 <details>
@@ -37,16 +36,22 @@ Artificial intelligence is at the core of the current-day paradigm for research 
 <details>
 <summary>3. Developing NNs and DL Models</summary>
 
-  1. Artificial Neural Networks with Keras
+  1. Artificial Neural Networks
   2. Training Deep Neural Networks
   3. Models and Training with TensorFlow
   4. Preprocessing Data with TensorFlow
-  5. Convolutional Neural Networks
+  5. Convolutional Neural Networks (CNN)
+  6. Sequence Processing
+  7. Natural Language Processing
+  8. Generative Adversarial Networks and Autoencoders
+  9. Reinforcement Learning
+  10. Deploying TensorFlow Models at Scale
+
 </details>
 
 ## Acknowledgements
 
-**The resources in this repository employ freely accessible content and guidance from the following books. Access these books for more comprehensive information about this subject.**
+**This repository synthesises information and guidence available from the following resources. Access these resources directly for more comprehensive information about this subject.**
 
 Andreas C. Müller and Sarah Guido (2016). *Introduction to Machine Learning with Python: A Guide for Data Scientists*, O'Reilly.
 
