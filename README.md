@@ -7,7 +7,7 @@ Artificial intelligence is at the core of the current-day paradigm for research 
 
 Machine learning (ML) is of pertinent interest in scientific research due to its ability to innovate the vast amount of data produced in the field. However, the computation behind these methodologies often appear inaccessible and intimidating for scientists with minimal exposure to such algorithms.
 
-*This project seeks to provide a foundational overview of the applications of ML for researchers seeking to innovate their data analysis.*
+*This repo provides a foundational overview of the applications of ML for wet lab researchers seeking to innovate their data analysis.*
 
 ## Contents
   
